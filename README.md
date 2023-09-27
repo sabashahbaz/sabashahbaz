@@ -8,9 +8,10 @@ Experienced full-stack software engineer with a strong background in biological 
 <img align="right"  width="250px" style="border-radius: 5px;" src="https://img.wattpad.com/3ce7f8c3f050bc1d10981feaaee1b23bdcb72666/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f464d4e55433631753763345071673d3d2d3137332e313634363861326162656531643666623536343338393038393532382e676966" alt="">
 
 ## ✅ Certifications & Licences 
-- Software Engineering from Flatiron School BootCamp 💻
+- Software Engineering - Flatiron School BootCamp 💻
 
 ## 🎓 Education
+- Software Engineering - Flatiron School BootCamp 💻
 - MA in Biological Sciences from Queens College, NY 📖
 - BS in Biological Sciences from Binghamton University, NY 🎓
 
@@ -20,37 +21,29 @@ Experienced full-stack software engineer with a strong background in biological 
     <tr>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-            <br>Python
         </td>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-            <br>Flask
         </td>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white">
-            <br>SQL
         </td>
         <td align="center" style="border:1px solid #3A424A">
-            <img src="https://img.shields.io/badge/SQLAlchemy-%230B3D91.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-            <br>SQLAlchemy
+            <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
         </td>
     </tr>
     <tr>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-            <br>JavaScript
         </td>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
-            <br>React.js
         </td>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-            <br>HTML
         </td>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-            <br>CSS3
         </td>
     </tr>
 </table>
@@ -77,7 +70,7 @@ Experienced full-stack software engineer with a strong background in biological 
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ }/count.svg" /></p> 
-<br></div>
+<br></div> -->
