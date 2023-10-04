@@ -9,7 +9,7 @@
 
 <!-- [<img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/sabashahbaz)  -->
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saba-shahbaz/)
-[<img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sabashahbaz001@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sabashahbaz001@gmail.com)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@sabashahbaz001)
 
 
@@ -111,7 +111,7 @@ Experienced full-stack software engineer with a strong background in biological 
 </div> -->
 <div style="display: inline-block;">
   <a href="https://github.com/sabashahbaz/convoychat">
-    <img height="" width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabashahbaz&layout=compact&langs_count=8&card_width=320" />
+    <img height="" width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabashahbaz&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
 <br/>
