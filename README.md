@@ -16,16 +16,6 @@
 ## 🚀 About Me
 Results-driven Full-Stack Software Engineer with a strong foundation in Python and Javascript, eager to contribute expertise in desigining, developing, and maintaining scalbale software solutions. Excited to collaborate with cross-functional teams, apply advanced programming techniques, and ensure code quality to drive innovation and enchange the user experience. 
 
-<!-- <img align="right"  width="250px" style="border-radius: 5px;" src="https://img.wattpad.com/3ce7f8c3f050bc1d10981feaaee1b23bdcb72666/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f464d4e55433631753763345071673d3d2d3137332e313634363861326162656531643666623536343338393038393532382e676966" alt=""> -->
-
-## ✅ Certifications & Licences 
-- Software Engineering - Flatiron School BootCamp 💻
-
-## 🎓 Education
-- Software Engineering - Flatiron School BootCamp 💻
-- MA in Biological Sciences from Queens College, NY 📖
-- BS in Biological Sciences from Binghamton University, NY 🎓
-
 ## 💻 Technical Skills
 
 <table>
@@ -90,6 +80,18 @@ Results-driven Full-Stack Software Engineer with a strong foundation in Python a
     
 </table>
 <br/>
+
+<!-- <img align="right"  width="250px" style="border-radius: 5px;" src="https://img.wattpad.com/3ce7f8c3f050bc1d10981feaaee1b23bdcb72666/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f464d4e55433631753763345071673d3d2d3137332e313634363861326162656531643666623536343338393038393532382e676966" alt=""> -->
+
+## ✅ Certifications & Licences 
+- Software Engineering - Flatiron School BootCamp 💻
+
+## 🎓 Education
+- Software Engineering - Flatiron School BootCamp 💻
+- MA in Biological Sciences from Queens College, NY 📖
+- BS in Biological Sciences from Binghamton University, NY 🎓
+
+
 
 ## 💼 Work Experience
 - Medical Assistant/Scribe at StatMD Urgent Care, NY 🏥
