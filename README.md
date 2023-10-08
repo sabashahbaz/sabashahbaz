@@ -18,7 +18,8 @@ Results-driven Full-Stack Software Engineer with a strong foundation in Python a
 
 ## 💻 Technical Skills
 
-<table>
+<p align="center">
+    <table>
     <tr>
         <td align="center" style="border:1px solid #3A424A">
             <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
@@ -76,9 +77,8 @@ Results-driven Full-Stack Software Engineer with a strong foundation in Python a
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </td>
 </tr>
-
-    
 </table>
+</p>
 <br/>
 
 <!-- <img align="right"  width="250px" style="border-radius: 5px;" src="https://img.wattpad.com/3ce7f8c3f050bc1d10981feaaee1b23bdcb72666/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f464d4e55433631753763345071673d3d2d3137332e313634363861326162656531643666623536343338393038393532382e676966" alt=""> -->
