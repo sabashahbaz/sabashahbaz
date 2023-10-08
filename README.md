@@ -18,7 +18,7 @@ Results-driven Full-Stack Software Engineer with a strong foundation in Python a
 
 ## 💻 Technical Skills
 
-<div style="text-align:center;">
+<div style="display: flex; justify-content: center;">
     <table>
     <tr>
         <td align="center" style="border:1px solid #3A424A">
