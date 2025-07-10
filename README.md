@@ -89,15 +89,14 @@ Results-driven Full-Stack Software Engineer with a strong foundation in Python a
 - Software Engineering - Flatiron School BootCamp 💻
 
 ## 🎓 Education
+- MS in Computer Science from New York Institute of Technology, NY 📖
 - Software Engineering - Flatiron School BootCamp 💻
-- MA in Biological Sciences from Queens College, NY 📖
 - BS in Biological Sciences from Binghamton University, NY 🎓
 
 
 
 ## 💼 Work Experience
-- Medical Assistant/Scribe at StatMD Urgent Care, NY 🏥
-- Physics Teaching Assistant at Binghamton University 📚
+- Software Engineer at Mavis Tire Company 
 
 <!-- GITHUB STATS -->
   ## 📈 Github stats
